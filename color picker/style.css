@@ -1,0 +1,36 @@
+
+.colors{
+    /* background-color: red;*/
+    /* border: 30px solid black; */
+    height: 85vh; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.color{
+    display: inline-block;
+    height: 10vw;
+    width: 10vw;
+    border: 2px solid black;
+    border-color: 10px;
+    border-radius: 50%;
+
+}
+h1{
+    /* background-color: red; */
+    text-align: center;
+}
+
+#gray{
+    background-color: gray;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#purple{
+    background-color: purple;
+}
